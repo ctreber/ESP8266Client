@@ -1,6 +1,6 @@
 # ESP8266Client
 
-An Arduino ESP8266 Client implementation, providing a Client-facce for [ITEADLIB_Arduino_WeeESP8266](https://github.com/itead/ITEADLIB_Arduino_WeeESP8266), in example to be used as the WLAN backend of the PubSub MQTT library.
+An Arduino ESP8266 Client, implementing a Client-facade for [ITEADLIB_Arduino_WeeESP8266](https://github.com/itead/ITEADLIB_Arduino_WeeESP8266), in example to be used as the WLAN backend of the PubSub MQTT library.
 
 Check out the [Wiki](https://github.com/ctreber/ESP8266Client/wiki) for details.
 
